@@ -4,6 +4,7 @@
 	"description": "A project to learn backend development with JavaScript",
 	"keywords": ["backend", "javascript", "node.js", "training", "freecodecamp"],
 	"license": "MIT",
+	"version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
